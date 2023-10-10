@@ -1,11 +1,12 @@
-# Progetto: “Price Tracker”
-Lo scopo principale di questo progetto è quello di realizzare un’applicazione web per il price tracking di prodotti presenti su diversi siti di e-commerce scelti dall’utente. Il progetto prevede le seguenti funzionalità principali:
-- Scelta di un prodotto da monitorare tramite il link;
-- Visualizzazione della lista dei prodotti seguiti;
-- Invio di notifiche nel momento in cui uno dei prodotti seguiti cala di prezzo;
-- Visualizzazione di un catalogo che presenta dei prodotti generici con le migliori offerte;
+# Project: “Price Tracker”
+The main purpose of this project is to develop a web application for price tracking of products available on various e-commerce websites selected by the user. The project includes the following main features:
 
-## Tecnologie utilizzate:
-- Angular 12 per la parte front-end;
-- Spring boot per la realizzazione di servizi rest:
-- Mysql e hybernate per la realizzazione delle operazioni di CRUD
+- Selection of a product to monitor via its link;
+- Display of the list of tracked products;
+- Sending notifications when the price of one of the tracked products drops;
+- Display of a catalog featuring generic products with the best offers;
+
+## Technologies used:
+- Angular 12 for the front-end;
+- Spring Boot for creating REST services;
+- MySQL and Hibernate for performing CRUD operations.
